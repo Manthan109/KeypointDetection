@@ -1,4 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo Video
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/42516515/96685515-d850d700-139a-11eb-968e-bd4c6f3b431e.gif)
+
+The accuracy has been set to 20% as at 50% my laptop started overheating. Though at 20% too my laptop wasn't able to handle it very well 
 
 ## Available Scripts
 
